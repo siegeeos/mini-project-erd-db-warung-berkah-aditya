@@ -11,6 +11,6 @@ Nama Proyek : Warung Berkah
 Sebuah database untuk mengelola data Warung Berkah secara otomatis
 
 ## Struktur File
-- README.md
-- ERD_WarungBerkah.drawio
 - DB_WarungBerkah.sql
+- ERD_WarungBerkah.drawio
+- README.md
